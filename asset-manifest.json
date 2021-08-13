@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/marcelluswalace/reactcourse/static/css/main.ef353828.chunk.css",
+    "main.js": "/marcelluswalace/reactcourse/static/js/main.5c2abcc5.chunk.js",
+    "main.js.map": "/marcelluswalace/reactcourse/static/js/main.5c2abcc5.chunk.js.map",
+    "runtime-main.js": "/marcelluswalace/reactcourse/static/js/runtime-main.efaac45b.js",
+    "runtime-main.js.map": "/marcelluswalace/reactcourse/static/js/runtime-main.efaac45b.js.map",
+    "static/js/2.743303ce.chunk.js": "/marcelluswalace/reactcourse/static/js/2.743303ce.chunk.js",
+    "static/js/2.743303ce.chunk.js.map": "/marcelluswalace/reactcourse/static/js/2.743303ce.chunk.js.map",
+    "static/js/3.7d037c68.chunk.js": "/marcelluswalace/reactcourse/static/js/3.7d037c68.chunk.js",
+    "static/js/3.7d037c68.chunk.js.map": "/marcelluswalace/reactcourse/static/js/3.7d037c68.chunk.js.map",
+    "index.html": "/marcelluswalace/reactcourse/index.html",
+    "static/css/main.ef353828.chunk.css.map": "/marcelluswalace/reactcourse/static/css/main.ef353828.chunk.css.map",
+    "static/js/2.743303ce.chunk.js.LICENSE.txt": "/marcelluswalace/reactcourse/static/js/2.743303ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efaac45b.js",
+    "static/js/2.743303ce.chunk.js",
+    "static/css/main.ef353828.chunk.css",
+    "static/js/main.5c2abcc5.chunk.js"
+  ]
+}
